@@ -62,13 +62,13 @@ position: absolute;
 
 .top-cloud{
   position: absolute;
-  right: 300px;
+  right: 150px;
   top: 100px;
 }
 
 .bottom-cloud{
   position: absolute;
-  left: 200px;
+  left: 150px;
   bottom: 300px;
 }
 
