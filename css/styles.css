@@ -68,7 +68,7 @@ position: absolute;
 
 .bottom-cloud{
   position: absolute;
-  left: 250px;
+  left: 200px;
   bottom: 300px;
 }
 
@@ -88,7 +88,7 @@ position: absolute;
 .top-container {
   background-color: #e4f9f5;
   position: relative;
-  padding-top: 200px;
+  padding-top: 150px;
 }
 
 .middle-container {
