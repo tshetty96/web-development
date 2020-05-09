@@ -88,7 +88,8 @@ position: absolute;
 .top-container {
   background-color: #e4f9f5;
   position: relative;
-  padding-top: 150px;
+  padding-top: 170px;
+  padding-bottom: 100px;
 }
 
 .middle-container {
